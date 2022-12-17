@@ -37,47 +37,47 @@
       "id": 6
     }
   ],
-  "spaces": [
+   "spaces": [
     {
       "id": 1,
-      "title": "生活空間",
-      "body": "專屬於你的個人空間",
+      "title": "理想生活",
+      "body": "發揮你的創意力",
       "images": "https://seanhong1215.github.io/workspace/images/workspace_01.png"
     },
     {
       "id": 2,
-      "title": "生活空間",
-      "body": "專屬於你的個人空間",
+      "title": "美好空間",
+      "body": "提升商業效率",
       "images": "https://seanhong1215.github.io/workspace/images/workspace_02.png"
     },
     {
       "id": 3,
-      "title": "生活空間",
-      "body": "專屬於你的個人空間",
+      "title": "生活品味",
+      "body": "擴大你的商業網絡",
       "images": "https://seanhong1215.github.io/workspace/images/workspace_03.png"
     },
     {
       "id": 4,
-      "title": "生活空間",
-      "body": "專屬於你的個人空間",
+      "title": "空間改造",
+      "body": "訓練你的整合思維",
       "images": "https://seanhong1215.github.io/workspace/images/workspace_04.png"
     },
     {
       "id": 5,
-      "title": "生活空間",
-      "body": "專屬於你的個人空間",
+      "title": "快樂空間 ",
+      "body": "為創業者帶來新的機會",
       "images": "https://seanhong1215.github.io/workspace/images/workspace_05.png"
     },
     {
       "id": 6,
-      "title": "生活空間",
-      "body": "專屬於你的個人空間",
+      "title": "創造溫暖",
+      "body": "利用共同資源、節省開支",
       "images": "https://seanhong1215.github.io/workspace/images/workspace_06.png"
     },
     {
       "id": 7,
-      "title": "生活空間",
-      "body": "專屬於你的個人空間",
+      "title": "舒適生活",
+      "body": "與不同行業專家合作、聯繫資源",
       "images": "https://seanhong1215.github.io/workspace/images/workspace_07.png"
     },
     {
